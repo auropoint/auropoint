@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi, I'm Pavel 👋
+Middle manual QA Engineer with about 2 years of commercial experience.
+Have started using QA automation and developed a project for WEB auto testing (Java).
+In general, worked on testing of Android apps, WEB and API.
 
-<!--
-**auropoint/auropoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = 'center'>
+<a href="https://github.com/auropoint/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=auropoint&layout=compact" /></a>
+ </p>
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://t.me/auropoint" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B1%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87-74704879/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <p align='center'>
+  📫  How to reach me: <a href='mailto:auropoint@gmail.com'>auropoint@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key points
+*   Agile work teams
+*   Projects with monolitic and microservice arthitectures
+*   Test cases preparation from specifications before development process
+*   English: living experience in an English-speaking community
+*   Improving my skills on Java via [similar](https://www.software-testing.ru/edu/schedule/1) tutorial
+
+## 🛠 Technical Stack
+*   Android manual testing
+*   WEB manual and auto testing
+*   Backend REST API testing, JSON syntax
+*   beginner in WEB-testing in Java using Selenium, Selenide, REST Assured, Hibernate
+
+<br>
+
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/auropoint/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=auropoint&color=DE002D">
+    </a>
+</div>

@@ -1,7 +1,7 @@
 # Hi, I'm Pavel 👋
-Middle manual QA Engineer with about 2 years of commercial experience.
-Have started using QA automation and developed a project for WEB auto testing (Java).
-In general, worked on testing of Android apps, WEB and API.
+QA Engineer with about 4 years of commercial experience.
+Apart of manual testing, I use QA automation and developed a project for WEB UI autotesting (Java) and backend microservice component autotests (Go).
+In general, worked on testing of backend, API, sometimes WEB and Android apps.
 
 <p align = 'center'>
 <a href="https://github.com/auropoint/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=auropoint&layout=compact" /></a>
@@ -21,15 +21,16 @@ In general, worked on testing of Android apps, WEB and API.
 ### Key points
 *   Agile work teams
 *   Projects with monolitic and microservice arthitectures
+*   Business requirements analysis
 *   Test cases preparation from specifications before development process
 *   English: living experience in an English-speaking community
 *   Improving my skills on Java via [similar](https://www.software-testing.ru/edu/schedule/1) tutorial
 
 ## 🛠 Technical Stack
+*   Backend testing (Go, Java, Ruby on Rails)
+*   API testing (REST, gRPC, kafka, Postgress, MySQL)
+*   WEB testing and automation using Java Selenium, Selenide, REST Assured, Hibernate
 *   Android manual testing
-*   WEB manual and auto testing
-*   Backend REST API testing, JSON syntax
-*   beginner in WEB-testing in Java using Selenium, Selenide, REST Assured, Hibernate
 
 <br>
 
